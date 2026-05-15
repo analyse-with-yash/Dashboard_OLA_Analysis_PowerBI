@@ -3,6 +3,8 @@ Interactive Power BI dashboard analyzing 99K+ Ola ride bookings to uncover insig
 
 
 
+
+
 # 🚖 Ola Ride Booking Analysis Dashboard
 
 An interactive **Power BI dashboard** built to analyze **99K+ Ola ride booking records** and generate meaningful business insights through data visualization and reporting.
@@ -74,12 +76,6 @@ The dashboard transforms raw ride data into actionable insights for better busin
 - Dashboard Development
 - Insight Extraction
 - KPI Analysis
-
-
-
-## 📷 Dashboard Preview
-
-(Add your dashboard screenshots here)
 
 
 
